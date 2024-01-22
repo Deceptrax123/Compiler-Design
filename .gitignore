@@ -7,6 +7,10 @@
 *.obj
 *.elf
 
+#Lex files
+lexprogram
+lex.yy.c
+
 # Linker output
 *.ilk
 *.map
