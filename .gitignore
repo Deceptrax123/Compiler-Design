@@ -10,6 +10,8 @@
 #Lex files
 lexprogram
 lex.yy.c
+*.h
+*.tab.c
 
 # Linker output
 *.ilk
